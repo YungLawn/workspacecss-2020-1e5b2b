@@ -209,7 +209,7 @@ li:first-letter{
 }
 
 p:nth-child(3n){
-  background-color: palegoldenrod;
+  background-color: palegreen;
 }
 
 p:nth-child(3n+1){
